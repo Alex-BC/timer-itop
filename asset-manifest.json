@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/timer-itop/static/css/main.5a6adb68.chunk.css",
+    "main.js": "/timer-itop/static/js/main.8e09ddeb.chunk.js",
+    "main.js.map": "/timer-itop/static/js/main.8e09ddeb.chunk.js.map",
+    "runtime-main.js": "/timer-itop/static/js/runtime-main.cd08542d.js",
+    "runtime-main.js.map": "/timer-itop/static/js/runtime-main.cd08542d.js.map",
+    "static/js/2.b0f141fd.chunk.js": "/timer-itop/static/js/2.b0f141fd.chunk.js",
+    "static/js/2.b0f141fd.chunk.js.map": "/timer-itop/static/js/2.b0f141fd.chunk.js.map",
+    "index.html": "/timer-itop/index.html",
+    "static/css/main.5a6adb68.chunk.css.map": "/timer-itop/static/css/main.5a6adb68.chunk.css.map",
+    "static/js/2.b0f141fd.chunk.js.LICENSE.txt": "/timer-itop/static/js/2.b0f141fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd08542d.js",
+    "static/js/2.b0f141fd.chunk.js",
+    "static/css/main.5a6adb68.chunk.css",
+    "static/js/main.8e09ddeb.chunk.js"
+  ]
+}
